@@ -1,0 +1,23 @@
+body{
+
+	background-color: whitesmoke;
+}
+
+h2{
+
+	color: orange;
+	text-align: center;
+}
+a{
+
+	color: blue;
+}
+p{
+	color: darkgoldenrod;
+}
+
+img{
+
+	display:block;
+	margin:auto;
+	}

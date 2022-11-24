@@ -1,0 +1,38 @@
+body{
+
+	background-color: black;
+	color: white;
+}
+
+h1{
+
+	color: orange;
+	text-align: center;
+
+}
+
+a{
+
+	color: darkred;
+	text-align: right;
+
+}
+
+.texto1{
+
+
+	color: darkgrey;
+	text-align: left;
+}
+
+.texto1{
+
+	color: darkgrey;
+	text-align: left;
+}
+
+footer{
+
+	text-align: right;
+	color: whitesmoke;
+}
